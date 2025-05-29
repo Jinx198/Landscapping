@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
  */
 /**
  *
- * @author jjvil
+ * @author Jay Villanueva
  */
 public class Customer {
 
